@@ -4,6 +4,8 @@ github.com/gen2brain/shm v0.0.0-20180314170312-6c18ff7f8b90 h1:QagTG5rauLt6pVVEh
 github.com/gen2brain/shm v0.0.0-20180314170312-6c18ff7f8b90/go.mod h1:uF6rMu/1nvu+5DpiRLwusA6xB8zlkNoGzKn8lmYONUo=
 github.com/kbinani/screenshot v0.0.0-20190719135742-f06580e30cdc h1:kGFotla6Dyr6a2ILeExAHlttPgJtnoP/GIw2uVN/4h4=
 github.com/kbinani/screenshot v0.0.0-20190719135742-f06580e30cdc/go.mod h1:f8GY5V3lRzakvEyr49P7hHRYoHtPr8zvj/7JodCoRzw=
+github.com/lucasb-eyer/go-colorful v1.0.3 h1:QIbQXiugsb+q10B+MI+7DI1oQLdmnep86tWFlaaUAac=
+github.com/lucasb-eyer/go-colorful v1.0.3/go.mod h1:R4dSotOR9KMtayYi1e77YzuveK+i7ruzyGqttikkLy0=
 github.com/lxn/win v0.0.0-20190716185335-d1d36f0e4f48 h1:J2doxiYgOxforcFE2tj6KyLIDF+fBUODRUVNf0EVdnI=
 github.com/lxn/win v0.0.0-20190716185335-d1d36f0e4f48/go.mod h1:oO6+4g3P1GcPAG7LPffwn8Ye0cxW0goh0sUZ6+lRFPs=
 golang.org/x/sys v0.0.0-20190804053845-51ab0e2deafa h1:KIDDMLT1O0Nr7TSxp8xM5tJcdn8tgyAONntO829og1M=
